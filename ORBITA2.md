@@ -16,3 +16,7 @@ Todos los 6 estilos de tipografías que se han utilizado para el mockups.
 Los componentes utilizados con sus variables auto layout.
 Entran iconos, botones, rutas recientes e imagen de inicio de rutas.
 - **Componentes:** [Ver en Figma](https://www.figma.com/design/p2UhLmfzyRC0YQFutpBWlm/Plantilla-para-iniciar-proyectos--Community-?node-id=654-592&t=Mk3Cax03pU6MNGDg-0)
+
+# Mockups y prototipo
+El mockups con el happy path, el modo claro y oscuro junto al uso de componentes, estilos y colores.
+- **Mockups y prototipo:** [Ver en Figma](https://www.figma.com/design/p2UhLmfzyRC0YQFutpBWlm/Plantilla-para-iniciar-proyectos--Community-?node-id=616-78&p=f&t=Mk3Cax03pU6MNGDg-0)
