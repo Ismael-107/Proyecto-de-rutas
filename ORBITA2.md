@@ -20,3 +20,7 @@ Entran iconos, botones, rutas recientes e imagen de inicio de rutas.
 # Mockups y prototipo
 El mockups con el happy path, el modo claro y oscuro junto al uso de componentes, estilos y colores.
 - **Mockups y prototipo:** [Ver en Figma](https://www.figma.com/design/p2UhLmfzyRC0YQFutpBWlm/Plantilla-para-iniciar-proyectos--Community-?node-id=616-78&p=f&t=Mk3Cax03pU6MNGDg-0)
+
+# Guía de estilo
+El estilo de la pagina con sus por que y uso de colores descritos con el valor de accesibilidad, códigos y nombres junto a las estilos tipográficos sus porqués, tipografía usada y nombre
+- **Guía de estilos:** [Ver en Figma](https://www.figma.com/design/p2UhLmfzyRC0YQFutpBWlm/Plantilla-para-iniciar-proyectos--Community-?node-id=616-79&t=Mk3Cax03pU6MNGDg-0)
